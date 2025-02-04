@@ -1,4 +1,4 @@
-package TestNG;
+package TestNG_Basics;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Severity;

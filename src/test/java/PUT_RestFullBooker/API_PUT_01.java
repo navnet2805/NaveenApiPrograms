@@ -26,7 +26,9 @@ public class API_PUT_01 {
         r.basePath("/booking/3");
         r.contentType(ContentType.JSON);
         r.body(input);
+
         r.when().log().all().patch();
+
         r.then().statusCode(200);
 
     }

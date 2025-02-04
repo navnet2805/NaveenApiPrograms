@@ -1,3 +1,5 @@
+package TestNG_Basics;
+
 import io.restassured.RestAssured;
 
 public class APITest002 {

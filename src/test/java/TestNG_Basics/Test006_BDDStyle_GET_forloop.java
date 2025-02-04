@@ -1,4 +1,4 @@
-package TestNG;
+package TestNG_Basics;
 
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;

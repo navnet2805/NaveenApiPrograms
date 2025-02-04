@@ -14,8 +14,8 @@ Basics to advance.
 5. Manage your Build, Dependencies. -  Maven
 6. Data Driven Testing - Apache POI, Fillow - 3rd. (Excel)
 7. HTML Reporting- Allure Report, Extent Report
-8. Verify Response - Assert J, TestNG
-9. Manage your Testcases - TestNG
+8. Verify Response - Assert J, TestNG_Basics
+9. Manage your Testcases - TestNG_Basics
 
 **CI/CD**
 10. Version Control -(Source) - Git
