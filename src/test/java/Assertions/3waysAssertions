@@ -1,0 +1,6 @@
+1. Validatable response
+- provided by Hamcrest  inbuilt in RestAssured - NOT USED.
+
+2. TestNG Assertions
+-
+3. AssertJ (3rd party library)
